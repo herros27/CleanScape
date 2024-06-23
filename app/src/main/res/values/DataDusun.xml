@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rks_array">
+        <item>Dusun Banyuurip</item>
+        <item>Dusun Gluntung Lor</item>
+        <item>Dusun Gluntung Kidul</item>
+        <item>Dusun Gumulan</item>
+        <item>Dusun Tegalsempu</item>
+        <item>Dusun Tunjungan</item>
+        <item>Dusun Krapakan</item>
+        <item>Dusun Samparan</item>
+        <item>Dusun Tegallayang 9</item>
+        <item>Dusun Tegallayang 10</item>
+        <item>Dusun Kuroboyo</item>
+        <item>Dusun Korowelang</item>
+        <item>Dusun Glagahan</item>
+        <item>Dusun Bogem</item>
+
+    </string-array>
+</resources>

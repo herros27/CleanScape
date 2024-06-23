@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Jopanik</string>
+    <string name="masukkan_email_anda">Masukkan Email Anda</string>
+    <string name="klik_disini">klik disini</string>
+    <string name="masukkan_nama_anda">Masukkan Nama Anda</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="sudah_punya_akun">sudah punya akun?</string>
+    <string name="daftar">Daftar</string>
+    <string name="ulangi_password">Ulangi Password</string>
+    <string name="ulangi_password_lagi">Ulangi Password</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="registrasi">Registrasi</string>
+    <string name="password">Password</string>
+    <string name="alamat_email">Alamat Email</string>
+    <string name="masuk">Masuk</string>
+    <string name="belum_punya_akun">belum punya akun?</string>
+    <string name="login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sampah_anorganik">Jenis sampah yang tidak dapat terurai secara alami oleh mikroorganisme atau proses alam.</string>
+    <!-- Botol Plastik -->
+    <string name="botol_mineral_title">Botol Air Mineral</string>
+    <string name="botol_mineral_desc1">Plastik adalah bahan sintetis yang terbuat dari polimer dan digunakan dalam berbagai produk sehari-hari.
+        Beberapa jenis plastik yang umum digunakan adalah:</string>
+
+    <string name="jenis0">1. Polietilen (PE): Kantong plastik, botol susu, botol sampo, dan wadah makanan.</string>
+    <string name="jenis1">2. Polipropilen (PP): Botol minuman, wadah makanan, tutup botol, dan perlengkapan rumah tangga.</string>
+    <string name="jenis2">3. Polivinil klorida (PVC): Pipa PVC, kabel listrik, tirai shower, dan produk medis seperti selang infus.</string>
+    <string name="jenis3">4. Polistirena (PS): Kotak CD, kemasan makanan, mainan, dan bahan isolasi.</string>
+    <string name="jenis4">5. Polikarbonat (PC): Kaca helm, botol minuman, tutup botol, dan produk elektronik seperti CD player.</string>
+    <string name="jenis5">6. Polietilen tereftalat (PET): Botol minuman, kemasan makanan, dan serat tekstil.</string>
+    <string name="jenis6">7. Poliuretan (PU): Kasur, bantalan, produk isolasi, dan sepatu.</string>
+    <string name="jenis7">8. Poliamida (PA): Kabel, sikat gigi, produk otomotif, dan perlengkapan olahraga.</string>
+    <string name="jenis8">9. Akrilonitril butadiena stirena (ABS): Mainan, casing elektronik, produk otomotif, dan perlengkapan olahraga.</string>
+    <string name="jenis9">10. Polietilen klorin (PVC): Pipa PVC, kabel listrik, tirai shower, dan produk medis seperti selang infus.</string>
+    <string name="botol_desc2">Kemampuan mereka untuk didaur ulang berbeda-beda, dengan beberapa jenis sulit didaur ulang dan dapat mengeluarkan gas beracun saat dibakar.
+        Oleh karena itu, penting untuk memilah jenis plastik dan membuangnya pada tempat yang tepat agar dapat didaur ulang dengan baik dan mengurangi dampak negatif pada lingkungan.</string>
+
+    <!-- Botol Plastik -->
+    <string name="kardus_title">Kardus</string>
+    <string name="kardus_desc">Sampah kardus adalah limbah yang berasal dari bahan kertas yang digunakan untuk membungkus atau mengemas barang. Kardus umumnya terbuat dari serat kayu yang diolah menjadi lembaran kertas tebal dan seringkali mengandung tinta cetak dan bahan perekat. Sampah kardus memiliki sifat yang mudah terbakar dan dapat terurai secara alami dalam waktu yang relatif singkat. Sampah kardus dapat didaur ulang menjadi bahan baku baru, seperti kertas daur ulang atau produk kertas lainnya. Beberapa contoh barang bekas yang dapat didaur ulang menjadi kerajinan antara lain kardus bekas, koran bekas, kain bekas, botol bekas, bekas gelas plastik air mineral, ban bekas, dan plastik bekas bungkus kopi sachet</string>
+
+    <!-- Kertas -->
+    <string name="kertas_title">Kertas</string>
+    <string name="kertas_desc">Kertas adalah bahan tipis
+        yang digunakan sebagai media untuk menulis, mencetak,
+        melukis, dan berbagai keperluan lainnya. Kertas umumnya
+        terbuat dari kayu atau serat alami lainnya</string>
+
+    <!-- Logam -->
+    <string name="logam_title">Logam</string>
+    <string name="logam_desc">Sampah logam adalah limbah yang mudah dipisahkan dari timbunan sampah dan dapat didaur ulang menjadi barang yang bernilai seni, seperti hiasan rumah, peralatan rumah tangga, atau pot untuk bunga. Beberapa contoh sampah logam antara lain kaleng minuman, tutup botol, kabel listrik, peralatan elektronik, dan barang bekas dari logam seperti besi tua atau aluminium bekas. Sampah logam dapat didaur ulang menjadi bahan baku baru dengan proses pemurnian dan pengolahan. Daur ulang sampah logam dapat membantu mengurangi jumlah sampah yang dibuang ke tempat pembuangan akhir dan mengurangi penggunaan sumber daya alam yang terbatas.1b</string>
+
+    <!-- Kresek -->
+    <string name="kresek_title">Logam</string>
+    <string name="kresek_desc">Sampah kresek adalah limbah plastik daur ulang yang terbuat dari jenis plastik polietilen. Kresek umumnya digunakan sebagai kantong plastik untuk membungkus barang atau sampah. Sampah kresek memiliki sifat yang sulit terurai secara alami dan dapat mencemari lingkungan jika dibuang sembarangan. Sampah kresek dapat didaur ulang menjadi bahan baku baru, seperti kantong plastik daur ulang atau produk plastik lainnya. Penting untuk memilah sampah dengan benar agar sampah kresek dapat didaur ulang. Melalui edukasi dan kesadaran lingkungan, kita dapat membantu mengurangi dampak negatif sampah kresek terhadap lingkungan.</string>
+</resources>

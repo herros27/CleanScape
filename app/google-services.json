@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346593828175",
+    "project_id": "jopanik-399b9",
+    "storage_bucket": "jopanik-399b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346593828175:android:45b1c6ae264f2c9be6f93a",
+        "android_client_info": {
+          "package_name": "com.example.jopanik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Sx77adwKQ-jBqLgzV6ly3SogrZ0W9jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
